@@ -5,6 +5,8 @@ An interactive, four-page Power BI dashboard that explores how 288 people use AI
 > **Author:** Mohammed Nakibul Alam
 >
 > **Tools:** Power BI Desktop, Power Query (M), DAX
+>
+> > **Demo video:** [Watch the dashboard walkthrough](https://drive.google.com/file/d/1RTDE4o7AJSIo2SS6XZoXe6X9w-JUo_Mk/view)
 
 ---
 
