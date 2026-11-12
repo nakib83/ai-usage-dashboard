@@ -73,7 +73,7 @@ A single flat table (`AI_Usage`) plus a `_Measures` table holding all calculatio
 3. **Segments:** recommendation by age group and profession, users by country, recommend % by tool, and a Yes / No / Maybe comparison table
 4. **About & Data:** cleaning summary, limitations and key insights
 
-**Interactivity:** cross-filtering between visuals, synced slicers across pages, page-navigator buttons, a custom tooltip page showing the Yes / No / Maybe breakdown per tool, and an outlier toggle.
+**Interactivity:** cross-filtering between visuals, slicers on each page, page-navigator buttons, a custom tooltip page showing the Yes / No / Maybe breakdown per tool, and an outlier toggle.
 
 ---
 
